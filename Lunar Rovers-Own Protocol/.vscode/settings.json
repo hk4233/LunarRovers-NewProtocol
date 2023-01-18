@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/himabindu/Downloads/com.google.guava_1.6.0.jar"
+    ]
+}
